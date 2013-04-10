@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.nennig.vulcan.tech.gospel.pro;
+package com.nennig.vulcan.tech.gospel.Pro;
 
 public final class R {
     public static final class array {
@@ -51,50 +51,48 @@ public final class R {
     }
     public static final class id {
         public static final int detail_button=0x7f0b0006;
-        public static final int detail_handLabel=0x7f0b0001;
-        public static final int detail_handText=0x7f0b0003;
+        public static final int detail_handLabel=0x7f0b0000;
+        public static final int detail_handText=0x7f0b0002;
         public static final int detail_image=0x7f0b0004;
         public static final int detail_photoName=0x7f0b0005;
-        public static final int detail_poiLabel=0x7f0b0000;
-        public static final int detail_poiText=0x7f0b0002;
+        public static final int detail_poiLabel=0x7f0b0001;
+        public static final int detail_poiText=0x7f0b0003;
         public static final int main_3113_button=0x7f0b0008;
         public static final int main_button2=0x7f0b0009;
         public static final int main_button3=0x7f0b000a;
         public static final int main_image=0x7f0b0007;
-        public static final int main_pdf_list=0x7f0b0019;
+        public static final int main_pdf_list=0x7f0b001a;
         public static final int menu_about=0x7f0b001b;
         public static final int menu_change_log=0x7f0b001f;
         public static final int menu_donate=0x7f0b001c;
         public static final int menu_facebook=0x7f0b001d;
         public static final int menu_rate_this=0x7f0b001e;
-        public static final int menu_settings=0x7f0b001a;
         public static final int prop_combo_frames=0x7f0b000f;
-        public static final int prop_hand_label=0x7f0b000c;
-        public static final int prop_hand_spinner=0x7f0b000e;
+        public static final int prop_hand_label=0x7f0b000b;
+        public static final int prop_hand_spinner=0x7f0b000d;
         public static final int prop_icon_lone=0x7f0b0010;
         public static final int prop_icon_ltwo=0x7f0b0013;
-        public static final int prop_poi_label=0x7f0b000b;
-        public static final int prop_poi_spinner=0x7f0b000d;
+        public static final int prop_poi_label=0x7f0b000c;
+        public static final int prop_poi_spinner=0x7f0b000e;
         public static final int prop_pos_0=0x7f0b0011;
         public static final int prop_pos_1=0x7f0b0014;
         public static final int prop_pos_2=0x7f0b0012;
         public static final int prop_pos_3=0x7f0b0015;
-        public static final int videoView=0x7f0b0017;
-        public static final int video_moveName=0x7f0b0018;
+        public static final int videoView=0x7f0b0018;
+        public static final int video_moveName=0x7f0b0019;
+        public static final int video_move_hand_prop=0x7f0b0017;
         public static final int video_prop_selector=0x7f0b0016;
     }
     public static final class layout {
         public static final int activity_detail_view=0x7f030000;
         public static final int activity_main=0x7f030001;
-        public static final int activity_prop=0x7f030002;
-        public static final int activity_search_list=0x7f030003;
-        public static final int activity_video=0x7f030004;
-        public static final int four_icon_view=0x7f030005;
-        public static final int view_pdfs=0x7f030006;
+        public static final int activity_selector=0x7f030002;
+        public static final int activity_video=0x7f030003;
+        public static final int four_icon_view=0x7f030004;
+        public static final int view_pdfs=0x7f030005;
     }
     public static final class menu {
-        public static final int activity_search_list=0x7f0a0000;
-        public static final int general=0x7f0a0001;
+        public static final int general=0x7f0a0000;
     }
     public static final class raw {
         public static final int changelog=0x7f040000;

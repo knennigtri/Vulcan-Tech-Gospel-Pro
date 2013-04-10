@@ -1,0 +1,40 @@
+0x0x0,2 Petal Spin Flower Vertical Orientation,1,1:02,1:16
+0x0x1,2 Petal Spin Flower Horizontal Orientation,1,0:00,0:00
+0x0x2,4 Petal Antispin Flower Diamond Orientation,1,0:00,0:00
+0x0x3,4 Petal Antispin Flower Box Orientation,1,0:00,0:00
+0x1x0,2 Petal Spin Flower Vertical Orientation vs  2 Petal Spin Flower Horizontal Orientation,3,0:00,0:00
+0x1x1,Diamond Antispin vs  Box Antispin ,3,0:00,0:00
+0x2x0,Diamond Antispin vs  2 Petal Spin Flower Horizontal Orientation,2,0:00,0:00
+0x2x1,Box Antispin vs  2 Petal Spin Flower Vertical Orientation ,2,0:00,0:00
+0x3x0,Diamond Antispin vs  2 Petal Spin Flower Vertical Orientation,2,0:00,0:00
+0x3x1,Box Antispin vs  2 Petal Spin Flower Horizontal Orientation ,2,0:00,0:00
+1x0x0,2 Petal Spin Flower Vertical Orientation vs  2 Petal Spin Flower Horizontal Orientation ,3,0:00,0:00
+1x0x1,Diamond Antispin vs Box Antispin,3,0:00,0:00
+1x1x0,2 Petal Spin Flower Vertical Orientation,1,0:00,0:00
+1x1x1,2 Petal Spin Flower Horizontal Orientation,1,0:00,0:00
+1x1x2,4 Petal Antispin Flower Diamond Orientation,1,0:00,0:00
+1x1x3,4 Petal Antispin Flower Box Orientation,1,0:00,0:00
+1x2x0,Diamond Antispin vs  2 Petal Spin Flower Vertical Orientation ,2,0:00,0:00
+1x2x1,Box Antispin vs  2 Petal Spin Flower Horizontal Orientation ,2,0:00,0:00
+1x3x0,Diamond Antispin vs  2 Petal Spin Flower Horizontal Orientation ,2,0:00,0:00
+1x3x1,Box Antispin vs  2 Petal Spin Flower Vertical Orientation ,2,0:00,0:00
+2x0x0,Diamond Antispin vs  2 Petal Spin Flower Horizontal Orientation ,2,0:00,0:00
+2x0x1,Box Antispin vs  2 Petal Spin Flower Vertical Orientation ,2,0:00,0:00
+2x1x0,Diamond Antispin vs  2 Petal Spin Flower Vertical Orientation ,2,0:00,0:00
+2x1x1,Box Antispin vs  2 Petal Spin Flower Horizontal Orientation ,2,0:00,0:00
+2x2x0,2 Petal Spin Flower Vertical Orientation,1,0:00,0:00
+2x2x1,2 Petal Spin Flower Horizontal Orientation,1,0:00,0:00
+2x2x2,4 Petal Antispin Flower Diamond Orientation,1,0:00,0:00
+2x2x3,4 Petal Antispin Flower Box Orientation,1,0:00,0:00
+2x3x0,2 Petal Spin Flower Vertical Orientation vs  2 Petal Spin Flower Horizontal Orientation ,3,0:00,0:00
+2x3x1,Diamond Antispin vs  Box Antispin ,3,0:00,0:00
+3x0x0,Diamond Antispin vs  2 Petal Spin Flower Vertical Orientation ,2,0:00,0:00
+3x0x1,Box Antispin vs  2 Petal Spin Flower Horizontal Orientation ,2,0:00,0:00
+3x1x0,Diamond Antispin vs  2 Petal Spin Flower Horizontal Orientation ,2,0:00,0:00
+3x1x1,Box Antispin vs  2 Petal Spin Flower Vertical Orientation ,2,0:00,0:00
+3x2x0,2 Petal Spin Flower Vertical Orientation vs  2 Petal Spin Flower Horizontal Orientation ,3,0:00,0:00
+3x2x1,Diamond Antispin vs  Box Antispin,3,0:00,0:00
+3x3x0,2 Petal Spin Flower Vertical Orientation,1,0:00,0:00
+3x3x1,2 Petal Spin Flower Horizontal Orientation,1,0:00,0:00
+3x3x2,4 Petal Antispin Flower Diamond Orientation,1,0:00,0:00
+3x3x3,4 Petal Antispin Flower Box Orientation,1,0:00,0:00
