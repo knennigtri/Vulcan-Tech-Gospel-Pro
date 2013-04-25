@@ -31,7 +31,7 @@
             android:label="Vulcan Tech Gospel Pro" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.nennig.vtglibrary.activities.PropActivity" />
+                android:value="com.nennig.vtglibrary.activities.SelectorActivity" />
         </activity>
         <activity android:name="com.nennig.vtglibrary.activities.VideoActivity" >
             <meta-data
