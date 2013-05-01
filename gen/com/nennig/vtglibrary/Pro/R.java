@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.nennig.vtglibrary;
+package com.nennig.vtglibrary.Pro;
 
 public final class R {
     public static final class array {
