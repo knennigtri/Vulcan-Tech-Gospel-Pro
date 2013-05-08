@@ -67,16 +67,20 @@ containing a value of this type.
         public static final int button_top_padding=0x7f070003;
     }
     public static final class drawable {
-        public static final int black_button=0x7f020000;
-        public static final int blue_button=0x7f020001;
-        public static final int default_icon=0x7f020002;
-        public static final int green_button=0x7f020003;
-        public static final int ic_action_search=0x7f020004;
-        public static final int ic_launcher=0x7f020005;
-        public static final int orange_button=0x7f020006;
-        public static final int purple_button=0x7f020007;
-        public static final int red_button=0x7f020008;
-        public static final int test_video=0x7f020009;
+        public static final int action_about=0x7f020000;
+        public static final int av_download=0x7f020001;
+        public static final int black_button=0x7f020002;
+        public static final int blue_button=0x7f020003;
+        public static final int default_icon=0x7f020004;
+        public static final int device_access_secure=0x7f020005;
+        public static final int green_button=0x7f020006;
+        public static final int ic_launcher=0x7f020007;
+        public static final int orange_button=0x7f020008;
+        public static final int purple_button=0x7f020009;
+        public static final int rating_important=0x7f02000a;
+        public static final int red_button=0x7f02000b;
+        public static final int social_share=0x7f02000c;
+        public static final int test_video=0x7f02000d;
     }
     public static final class id {
         public static final int circle=0x7f050000;
@@ -94,11 +98,13 @@ containing a value of this type.
         public static final int main_button3=0x7f05000f;
         public static final int main_image=0x7f05000c;
         public static final int main_pdf_list=0x7f05001f;
-        public static final int menu_about=0x7f050020;
-        public static final int menu_change_log=0x7f050024;
-        public static final int menu_donate=0x7f050021;
-        public static final int menu_facebook=0x7f050022;
-        public static final int menu_rate_this=0x7f050023;
+        public static final int menu_about=0x7f050026;
+        public static final int menu_change_log=0x7f050022;
+        public static final int menu_donate=0x7f050023;
+        public static final int menu_facebook=0x7f050020;
+        public static final int menu_group_actionbar=0x7f050024;
+        public static final int menu_rate_this=0x7f050021;
+        public static final int menu_share=0x7f050025;
         public static final int prop_combo_frames=0x7f050014;
         public static final int prop_hand_label=0x7f050010;
         public static final int prop_hand_spinner=0x7f050012;

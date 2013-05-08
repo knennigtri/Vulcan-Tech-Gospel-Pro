@@ -12,7 +12,7 @@
         android:theme="@android:style/Theme.Holo.Light" >
 
         <activity android:name="com.nennig.vtglibrary.activities.MainActivity"
-                  android:label="Vulcan Tech Gospel Pro">
+                  android:label="VTG Pro">
             <intent-filter android:label="VTG Pro" >
                 <action android:name="android.intent.action.MAIN" />
 
