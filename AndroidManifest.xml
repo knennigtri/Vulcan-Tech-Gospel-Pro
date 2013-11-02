@@ -41,6 +41,13 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.nennig.vtglibrary.activities.DetailViewActivity" />
         </activity>
+        <activity
+            android:name="com.nennig.vtglibrary.activities.SurveyActivity"
+            android:label="Vulcan Tech Gospel Pro" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.nennig.vtglibrary.activities.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
